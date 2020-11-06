@@ -1,5 +1,3 @@
+# Mentors
 
-# Mentors US
-
-hey guys
-we are ucsc
+We are UCSC 16!
